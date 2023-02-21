@@ -7,13 +7,7 @@ void kthmaxmin(int arr[],int i, int j,int k,int n){
     sort(arr,arr+n);
   cout<<arr[i]<<endl;
       cout<<"largest "<<k<< " element is "<<arr[n-k]<<endl;
-  
-
-      
-
-    
-    
-}
+  }
 void print(int arr[], int n){
     for(int i=0;i<n;i++){
         cout<<arr[i]<<endl;
