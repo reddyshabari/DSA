@@ -9,7 +9,7 @@ void kthmaxmin(int arr[],int i, int j,int k,int n){
       cout<<"largest "<<k<< " element is "<<arr[n-k]<<endl;
   
 
-      cout<<"smallest "<<k<< " element is "<<arr[k-1]<<endl;
+      
 
     
     
